@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TUGAS_Akhir_VB-Lanjutan_Aplikasi-Kasir", "TUGAS_Akhir_VB-Lanjutan_Aplikasi-Kasir\TUGAS_Akhir_VB-Lanjutan_Aplikasi-Kasir.vbproj", "{4FFA8F13-9067-453F-93FD-717F5903DA4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFA8F13-9067-453F-93FD-717F5903DA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFA8F13-9067-453F-93FD-717F5903DA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFA8F13-9067-453F-93FD-717F5903DA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFA8F13-9067-453F-93FD-717F5903DA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7B3CEC-BD4D-4729-A1A1-6878F5A6714C}
+	EndGlobalSection
+EndGlobal
