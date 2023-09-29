@@ -1,0 +1,25 @@
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\bin\Debug\TUGAS_VB4.exe.config
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\bin\Debug\TUGAS_VB4.exe
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\bin\Debug\TUGAS_VB4.pdb
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\bin\Debug\TUGAS_VB4.xml
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.vbprojAssemblyReference.cache
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.Form1.resources
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.Resources.resources
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.vbproj.GenerateResource.cache
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.vbproj.CoreCompileInputs.cache
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.exe
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.xml
+K:\KULIAH\Visual Basic\Tugas\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.pdb
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\bin\Debug\TUGAS_VB4.exe.config
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\bin\Debug\TUGAS_VB4.exe
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\bin\Debug\TUGAS_VB4.pdb
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\bin\Debug\TUGAS_VB4.xml
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.vbproj.AssemblyReference.cache
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.Form1.resources
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.Resources.resources
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.vbproj.GenerateResource.cache
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.vbproj.CoreCompileInputs.cache
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.exe
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.xml
+C:\Users\ANSIRK\Downloads\QUIZ VB + Tugas pertemuan 4(1)\QUIZ VB + Tugas pertemuan 4\TUGAS_VB4\TUGAS_VB4\obj\Debug\TUGAS_VB4.pdb
